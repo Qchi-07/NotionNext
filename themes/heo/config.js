@@ -4,12 +4,13 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-09-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://my.feishu.cn/wiki/GoXAwsO2AiKOBOksd0ZcxmeTnUd' },  
+    { title: '夸克新用户领1TB云空间', url: 'https://pan.quark.cn/s/bf7238dca17f' },
+    { title: '资料打印丨5分钱丨顺丰到家', url: 'https://my.feishu.cn/wiki/NbXgwUjTriTpczkSZduc2oQCnGd' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -19,11 +20,11 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '专注分享',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_2: '每天持续更新',
+  HEO_HERO_TITLE_3: 'PAN0KU.COM',
+  HEO_HERO_TITLE_4: '支持一键转存/高速下载',
+  HEO_HERO_TITLE_5: '每天持续更新',
+  HEO_HERO_TITLE_LINK: 'https://www.pan0ku.com/category',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
