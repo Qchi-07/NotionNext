@@ -8,9 +8,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '建议收藏好本站丨防走失备用网站【点击跳转】', url: 'https://my.feishu.cn/wiki/GoXAwsO2AiKOBOksd0ZcxmeTnUd' },  
+    { title: '收藏丨防走失备用网站【点击跳转】', url: 'https://my.feishu.cn/wiki/GoXAwsO2AiKOBOksd0ZcxmeTnUd' },  
     { title: '夸克新用户领1TB云空间', url: 'https://pan.quark.cn/s/bf7238dca17f' },
-    { title: '资料打印丨5分钱丨顺丰到家', url: 'https://my.feishu.cn/wiki/NbXgwUjTriTpczkSZduc2oQCnGd' }
+    { title: '资料打印丨5分钱+顺丰到家', url: 'https://my.feishu.cn/wiki/NbXgwUjTriTpczkSZduc2oQCnGd' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -118,7 +118,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://www.pan0ku.com/article/together',
+  HEO_SOCIAL_CARD_URL: 'https://www.pan0ku.com/article/about',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
