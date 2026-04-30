@@ -52,7 +52,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://www.pan0ku.com/article/print',
   HEO_INFO_CARD_ICON2: 'fa-regular fa-bell',
   HEO_INFO_CARD_URL3: 'https://pan.quark.cn/s/bf7238dca17f',
-  HEO_INFO_CARD_TEXT3: '新用户领云空间',
+  HEO_INFO_CARD_ICON3: 'fa-solid fa-burger',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
