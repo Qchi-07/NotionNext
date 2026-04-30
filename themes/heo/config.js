@@ -20,11 +20,11 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '专注分享',
-  HEO_HERO_TITLE_2: '每天持续更新',
+  HEO_HERO_TITLE_2: '全网稀缺实用资源',
   HEO_HERO_TITLE_3: 'PAN0KU.COM',
   HEO_HERO_TITLE_4: '支持一键转存/高速下载',
   HEO_HERO_TITLE_5: '每天持续更新',
-  HEO_HERO_TITLE_LINK: 'https://www.pan0ku.com/category',
+  HEO_HERO_TITLE_LINK: 'https://www.pan0ku.com/article/top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -40,8 +40,6 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！这里是盘里库',
-    '🔍 专注实用精品资源',
     '🤝 资源来源网络',
     '🏃 谨慎内含风险', 
     '🏠 100%免费保存',
@@ -51,10 +49,10 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: 'https://www.pan0ku.com/article/top',
   HEO_INFO_CARD_ICON1: 'fa-brands fa-audible',  
-  HEO_INFO_CARD_URL2: 'https://www.pan0ku.com/article/top',
-  HEO_INFO_CARD_ICON2: 'fas fa-user',
-  HEO_INFO_CARD_URL3: 'https://www.pan0ku.com/article/top',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL2: 'https://www.pan0ku.com/article/print',
+  HEO_INFO_CARD_ICON2: 'fa-regular fa-bell',
+  HEO_INFO_CARD_URL3: 'https://pan.quark.cn/s/bf7238dca17f',
+  HEO_INFO_CARD_TEXT3: '新用户领云空间',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -120,7 +118,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://www.pan0ku.com/article/top',
+  HEO_SOCIAL_CARD_URL: 'https://www.pan0ku.com/article/together',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
