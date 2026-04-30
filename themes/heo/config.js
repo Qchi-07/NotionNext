@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://my.feishu.cn/wiki/GoXAwsO2AiKOBOksd0ZcxmeTnUd' },  
+    { title: '建议收藏好本站丨防走失备用网站【点击跳转】', url: 'https://my.feishu.cn/wiki/GoXAwsO2AiKOBOksd0ZcxmeTnUd' },  
     { title: '夸克新用户领1TB云空间', url: 'https://pan.quark.cn/s/bf7238dca17f' },
     { title: '资料打印丨5分钱丨顺丰到家', url: 'https://my.feishu.cn/wiki/NbXgwUjTriTpczkSZduc2oQCnGd' }
   ],
