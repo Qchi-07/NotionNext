@@ -30,8 +30,8 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '小编自用', url: '/tag/小编自用' },
-  HEO_HERO_CATEGORY_2: { title: 'AI神器', url: '/tag/AI神器' },
-  HEO_HERO_CATEGORY_3: { title: '🔥活动', url: '/tag/🔥活动' },
+  HEO_HERO_CATEGORY_2: { title: '小白做副业', url: '/tag/小白做副业' },
+  HEO_HERO_CATEGORY_3: { title: '每日汇总', url: '/tag/每日汇总' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
