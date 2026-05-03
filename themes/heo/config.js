@@ -29,7 +29,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '小编自用', url: '/tag/小编自用' },
+  HEO_HERO_CATEGORY_1: { title: '高效工作', url: '/tag/高效工作' },
   HEO_HERO_CATEGORY_2: { title: '小白做副业', url: '/tag/小白做副业' },
   HEO_HERO_CATEGORY_3: { title: '每日汇总', url: '/tag/每日汇总' },
 
