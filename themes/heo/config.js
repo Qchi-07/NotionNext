@@ -30,7 +30,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '高效工作', url: '/tag/高效工作' },
-  HEO_HERO_CATEGORY_2: { title: '小白做副业', url: '/tag/小白做副业' },
+  HEO_HERO_CATEGORY_2: { title: '每日汇总【优先保存】', url: '/tag/每日汇总' },
   HEO_HERO_CATEGORY_3: { title: '每日汇总', url: '/tag/每日汇总' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
